@@ -1,0 +1,16 @@
+{
+    "name": "OpenMageModuleFostering/ShipWorks_Multi_Carrier_Shipping_Software",
+    "type": "magento-module",
+    "license": "Commercial",
+    "homepage": "",
+    "description": "ShipWorks 3.0 Integration",
+    "authors": [
+    {
+        "name": "ShipWorks",
+        "email": "support@shipworks.com"
+    }
+],
+    "suggest": {
+        "magento-hackathon/magento-composer-installer": "*"
+    }
+}
